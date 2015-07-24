@@ -33,6 +33,10 @@ This repository contains:
   aware that each row does not represent the total salary per year, in cases
   where an employee is paid through multiple funding sources.
 
+- [`salaries.csv`](salaries.csv), the normalized salaries as CSV.
+  This one has all the funding sources combined, so it really is total
+  compensation per year.
+
 
 ## Interesting queries
 
